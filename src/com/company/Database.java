@@ -9,7 +9,7 @@ public class Database {
 
         // updateGame(8,"Crash Bandicoot 3 Warped", 1, 6);
 
-        // updateGenre(1, "Simulation");
+        // updateGenre(1, "Platformer");
 
         // updatePlatform(9, "Playstation 4", "2008-11-30", "Sony");
 
